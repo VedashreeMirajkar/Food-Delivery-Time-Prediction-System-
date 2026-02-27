@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: your.email@example.com
+- **Email**: vedashreemirajk271@gmail.com
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - **Project Link**: [https://github.com/yourusername/food-delivery-time-prediction](https://github.com/yourusername/food-delivery-time-prediction)
 
